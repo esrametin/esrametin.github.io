@@ -13,5 +13,3 @@ My research interests include classroom interaction,
 You can find my detailed CV in the link below.
 
 [Download CV](/resume.pdf)
-
-{{<fa clover 2x>}}
