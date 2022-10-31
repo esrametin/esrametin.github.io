@@ -164,7 +164,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:esrametin.7@gmail.com"
+    url  = "mailto:esra.metin@ibu.edu.tr"
 
   [[params.social]]
     name = "github"
@@ -174,21 +174,9 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/esrametin"
 
-  [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/users/3737346/witch"
-
    [[params.social]]
     name = "instagram"
     url  = "https://www.instagram.com/esramet.in"
-
-   [[params.social]]
-    name = "mastodon"
-    url  = "https://mastodon.social/@esrametin"
-
-   [[params.social]]
-    name = "discord"
-    url  = "https://mastodon.social/@esrametin"
 
 [languages]
 
@@ -214,11 +202,19 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "/posts"
+    weight     = 1
   [[menu.main]]
     identifier = "publications"
     name       = "Publications"
     url        = "/publications"
+    weight     = 2
   [[menu.main]]
     identifier = "about"
     name       = "About"
     url        = "/about"
+    weight     = 4
+  [[menu.main]]
+    identifier = "links"
+    name       = "Links"
+    url        = "/links"
+    weight     = 3
