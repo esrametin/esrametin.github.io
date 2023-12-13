@@ -1,4 +1,4 @@
-baseURL = "https://www.esramet.in/"
+baseURL = "esrametin.github.io"
 title   = "esra metin"
 languageCode = "en-us"
 theme = "hello-friend-ng"
